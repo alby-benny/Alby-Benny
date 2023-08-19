@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lucifer4032
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Alby Benny
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently Studying Artificial Intelligence and DataScience with B.Tech Degree under KTU
 - 📫 How to reach me ...
 
 <!---
